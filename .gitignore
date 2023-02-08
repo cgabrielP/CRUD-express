@@ -1,2 +1,6 @@
 #data de conexion
 db.js
+#modulos
+/node_modules
+/.pnp
+.pnp.js
